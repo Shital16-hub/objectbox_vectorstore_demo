@@ -1,0 +1,10 @@
+streamlit
+langchain-groq
+langchain-openai
+langchain-core
+langchain-objectbox
+langchain-community
+python-dotenv
+pypdf
+ollama
+langchain
